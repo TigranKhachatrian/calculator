@@ -1,0 +1,12 @@
+.result{
+    background-color: gray;
+    height: 75px;
+    text-align: end;
+    width: 395px;
+    padding: 0;
+    padding-right: 5px;
+    margin: 0;
+    border: none;
+    font-size: 30px;
+    color:white;
+}
